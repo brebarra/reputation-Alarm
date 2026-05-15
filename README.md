@@ -20,6 +20,8 @@ This was designed as a personal project and may require modification for other h
 - Generic `.3mf` file for printing a two-tone case (+ white eye) to hold the modified Raspberry Pi and LED
 - Printable sticker for the front of the case
 
+![3D printed and assembled Reputation alarm](rep-alarm.jpg)
+
 # Installation
 
 ```
